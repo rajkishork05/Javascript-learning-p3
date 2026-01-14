@@ -25,3 +25,4 @@ function ab(a, b){
 let fnc = ab.bind(obj, 1,2)
 fnc();
 
+
